@@ -39,7 +39,7 @@ This project simplifies the creation of full-featured online stores with a focus
 
 🔍 **User-Centric Features**: Search, filtering, detailed product views, and secure login to enhance shopping engagement.
 
----
+------
 
 ## 🚀 Getting Started
 
