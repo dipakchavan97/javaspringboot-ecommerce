@@ -23,7 +23,7 @@
 
 ## 📖 Overview
 
-Shopping_Cart is a robust Spring Boot-based e-commerce platform designed to streamline the development of modern shopping experiences. It combines a flexible architecture with ready-to-use templates, enabling developers to quickly build, customize, and manage scalable e-commerce websites.
+Shopping_Cart is a robust Spring Boot-based e-commerce platform designed to streamline the development of modern shopping experiences. It combines a flexible architecture with ready-to-use templates, enabling developers to quickly build, customize, and manage scalable e-commerce websites..
 
 ### 🤔 Why Shopping Cart?
 
